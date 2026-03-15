@@ -1,6 +1,6 @@
 # Unlocking LLM Reasoning via Reinforcement Learning with Re-Solving
 
-**Paper** [![arXiv](https://img.shields.io/badge/arXiv-2410.02115-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2603.07197) 
+**Paper** [![arXiv](https://img.shields.io/badge/arXiv-2410.02115-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2603.07197) &nbsp; **Zhihu** [![Zhihu](https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white)](https://zhuanlan.zhihu.com/p/2016690660472815756)
 
 
 This repository provides the official implementation of the ICLR 2026 paper "Unlocking LLM Reasoning via Reinforcement Learning with Re-Solving."
