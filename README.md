@@ -29,6 +29,8 @@ pip install -r requirements.txt
 
 ## Re$^2$ Training
 
+We use [DAPO-Math-17k](https://huggingface.co/datasets/BytedTsinghua-SIA/DAPO-Math-17k) as the training dataset.
+
 To  run the Re$^2$ training process with the following commands:
 
 ```
