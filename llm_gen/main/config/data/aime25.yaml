@@ -1,0 +1,7 @@
+name: aime
+split: train
+path: '../dataset/AIME25_v2.parquet'
+subset: default
+question_key: problem
+answer_key: answer
+id_key: id

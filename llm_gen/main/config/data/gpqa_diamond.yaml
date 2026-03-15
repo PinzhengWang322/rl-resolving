@@ -1,0 +1,8 @@
+name: gpqa_diamond
+split: train
+path: "../dataset/gpqa_diamond.parquet"
+subset: default
+question_key: question
+answer_key: answer
+id_key: id
+

@@ -1,0 +1,7 @@
+name: math500
+split: train
+path: "../dataset/math500.jsonl"
+subset: default
+question_key: problem
+answer_key: answer
+id_key: unique_id

@@ -1,0 +1,2 @@
+Solve the following math problem step by step. If the problem yields a final numerical or symbolic answer, present it in \boxed{} without any units, labels, or additional text.
+{QUESTION}

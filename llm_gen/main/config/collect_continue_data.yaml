@@ -1,0 +1,33 @@
+defaults:
+  - data@datas: all
+  - task: base
+  - _self_
+
+data: aime24
+
+data_format:
+  apply_chat_template: true
+  template: null
+
+generation:
+  temperature: 0.6
+  top_p: 0.95
+  maxlen: 32768
+  save_dir: ../results/continue_dataset
+  gen_num: 8
+  master_port: 43753
+  continue_num: 8
+
+model:
+  path: path\to\your\model
+  dp_size: 4
+  tp_size: 1
+  gpu_ids: [0,1,2,3,4,5,6,7]
+  
+
+eval:
+  mode: Math
+
+
+task:
+ solve_prompt_path: null 

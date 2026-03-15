@@ -1,0 +1,14 @@
+defaults:
+  - .@aime24: aime
+  - .@aime25: aime25
+  - .@math500: math500
+  - .@dapo1000: dapo17k1000
+  - .@dapo: dapo
+  - .@gpqa: gpqa
+  - .@amc: amc
+  - .@minerva_math: minerva_math
+  - .@gsm8k: gsm8k
+  - .@college_math: college_math
+  - .@olympiadbench: olympiadbench
+  - .@gpqa_diamond: gpqa_diamond
+  - .@humaneval: humaneval

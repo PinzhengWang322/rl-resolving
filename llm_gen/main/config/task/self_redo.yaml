@@ -1,0 +1,4 @@
+name: "self-redo"
+max_loop: 3
+redo_prompt_path: "./prompts/self_redo/simple_redo.txt"
+unsure_str: "need to redo"

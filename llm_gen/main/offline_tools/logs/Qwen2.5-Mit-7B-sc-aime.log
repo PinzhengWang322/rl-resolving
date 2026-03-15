@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/nvme1/wpz/llm_gen/main/offline_tools/analyze_trajectory.py", line 243, in <module>
+    ds = load_from_disk(args.ds_path)
+  File "/home/amax/anaconda3/envs/eval/lib/python3.10/site-packages/datasets/load.py", line 2148, in load_from_disk
+    raise FileNotFoundError(
+FileNotFoundError: Directory /nvme1/wpz/llm_gen/results/sc/Qwen2.5-Mit-7B-sc/merged_chains/aime is neither a `Dataset` directory nor a `DatasetDict` directory.

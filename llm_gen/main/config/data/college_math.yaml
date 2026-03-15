@@ -1,0 +1,8 @@
+name: college_math
+split: test
+path: "di-zhang-fdu/College_Math_Test"
+subset: default
+question_key: question
+answer_key: answer
+id_key: id
+

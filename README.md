@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Re$^2$ Training
 
-To  run the Re$^2$ training process with the following scripts:
+To  run the Re$^2$ training process with the following commands:
 
 ```
 conda activate train_Re2
@@ -37,7 +37,7 @@ cd ./verl_redo_continue
 bash mytrain.sh
 ```
 
-Our entire sampling and training process is in:
+Our sampling and training process is in:
 
 ```
 ./verl-redo-continue/recipe/dapo/dapo_ray_trainer.py
@@ -47,6 +47,22 @@ The calculation of the redo reward is in:
 
 ```
 ./verl-redo-continue/verl/workers/reward_manager/dapo.py
+```
+
+## Evaluation
+
+We have open-sourced the three main models presented in our paper:
+
+- [Qwen2.5-7B-Instruct trained with Re^2](https://huggingface.co/PinzhengWang/7Bit_redo)
+- [Qwen2.5-7B-Base trained with Re^2](https://huggingface.co/PinzhengWang/7Bbase_redo)
+- [DeepSeek-R1-Distill-Llama-8B trained with Re^2](https://huggingface.co/PinzhengWang/dsllama-8B-redo)
+
+To evaluate the results with the following commands:
+
+```
+cd ./llm_gen/main
+bash ./scripts/self_redo.sh
+bash ./scripts/val_data.sh
 ```
 
 ## Main Reults	

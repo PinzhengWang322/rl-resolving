@@ -1,0 +1,8 @@
+name: gsm8k
+split: train
+path: "../dataset/gsm8k.json"
+subset: default
+question_key: text
+answer_key: label
+id_key: id
+

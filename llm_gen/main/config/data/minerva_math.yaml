@@ -1,0 +1,7 @@
+name: minerva_math
+split: train
+path: "../dataset/minerva_math.jsonl"
+question_key: question
+answer_key: answer
+id_key: id
+

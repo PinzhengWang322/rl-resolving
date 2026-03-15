@@ -1,0 +1,4 @@
+def create_classic_prompt(problem):
+    return f"""# Complete the function below
+{QUESTION}
+# Your code here

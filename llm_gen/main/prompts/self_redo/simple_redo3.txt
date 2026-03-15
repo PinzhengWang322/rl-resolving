@@ -1,0 +1,5 @@
+Solve the following math problem step by step. If you obtain a final answer, enclose it in \boxed{}. 
+
+{QUESTION}
+
+Note: As you work through the problem, continuously assess your solution path in real time. If you feel your current approach has become unclear or that rethinking the problem from scratch would be more productive, **simply say "It's better to redo the question."** Once you say this, the answer should be immediately terminated (so do not use this phrase lightly—when reflecting to yourself, use “Do I need to redo the question?” instead). When faced with unclear or tangled reasoning, don't hesitate to make use of the option to start over. Use this choice wisely for the best results.

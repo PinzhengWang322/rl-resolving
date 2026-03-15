@@ -1,0 +1,9 @@
+
+=== Evaluating hard subset (size=79) ===
+Parsing dataset:   0%|          | 0/79 [00:00<?, ?it/s]Parsing dataset:   1%|▏         | 1/79 [00:00<00:07,  9.92it/s]Parsing dataset:  32%|███▏      | 25/79 [00:00<00:00, 141.96it/s]Parsing dataset:  65%|██████▍   | 51/79 [00:00<00:00, 194.18it/s]Parsing dataset:  95%|█████████▍| 75/79 [00:00<00:00, 210.35it/s]Parsing dataset: 100%|██████████| 79/79 [00:00<00:00, 187.26it/s]
+
+=== Evaluating medium subset (size=79) ===
+Parsing dataset:   0%|          | 0/79 [00:00<?, ?it/s]Parsing dataset:  33%|███▎      | 26/79 [00:00<00:00, 193.27it/s]Parsing dataset:  58%|█████▊    | 46/79 [00:00<00:00, 107.41it/s]Parsing dataset:  78%|███████▊  | 62/79 [00:00<00:00, 122.39it/s]Parsing dataset: 100%|██████████| 79/79 [00:00<00:00, 139.94it/s]
+
+=== Evaluating easy subset (size=80) ===
+Parsing dataset:   0%|          | 0/80 [00:00<?, ?it/s]Parsing dataset:  29%|██▉       | 23/80 [00:00<00:00, 226.62it/s]Parsing dataset:  57%|█████▊    | 46/80 [00:00<00:00, 188.57it/s]Parsing dataset:  82%|████████▎ | 66/80 [00:00<00:00, 92.43it/s] Parsing dataset: 100%|██████████| 80/80 [00:00<00:00, 123.17it/s]

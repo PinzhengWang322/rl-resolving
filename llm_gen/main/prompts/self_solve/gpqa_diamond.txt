@@ -1,0 +1,3 @@
+{QUESTION}
+
+If the answer is not formatted exactly as \boxed{A}, \boxed{B}, \boxed{C}, or \boxed{D}, it will be considered invalid and rejected.

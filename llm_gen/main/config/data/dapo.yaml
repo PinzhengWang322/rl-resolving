@@ -1,0 +1,6 @@
+name: aime
+split: train
+path: '../dataset/dapo-math-17k-sample100.parquet'
+question_key: problem
+answer_key: answer
+id_key: id

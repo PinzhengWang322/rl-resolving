@@ -1,0 +1,7 @@
+name: olympiadbench
+split: train
+path: "../dataset/olympiadbench.parquet"
+question_key: question
+answer_key: answer
+id_key: id
+

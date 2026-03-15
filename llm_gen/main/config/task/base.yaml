@@ -1,0 +1,2 @@
+name: "base"
+solve_prompt_path: "./prompts/self_solve/clean.txt"

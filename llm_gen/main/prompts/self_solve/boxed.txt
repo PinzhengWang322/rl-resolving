@@ -1,0 +1,3 @@
+Solve the following math problem step by step. If you obtain a final answer, enclose it in \\boxed{}.
+
+{QUESTION}
