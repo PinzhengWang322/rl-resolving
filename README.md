@@ -27,7 +27,7 @@ conda activate train_Re2
 pip install -r requirements.txt
 ```
 
-## Re$^2$ Training
+## Re2 Training
 
 We use [DAPO-Math-17k](https://huggingface.co/datasets/BytedTsinghua-SIA/DAPO-Math-17k) as the training dataset.
 
