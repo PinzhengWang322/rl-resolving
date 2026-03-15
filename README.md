@@ -71,5 +71,5 @@ bash ./scripts/val_data.sh
 
 The results are as follows (Set the Temperature=0.6,top-p=0.95,num_samples=128):
 
-![](.\pics\result.png)
+![](./pics/result.png)
 
